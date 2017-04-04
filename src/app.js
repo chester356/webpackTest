@@ -1,1 +1,3 @@
-console.log('Hello from app.js new changes')
+const css = require('./app.scss');
+
+console.log('Hello from app.js new changes');
