@@ -1,3 +1,3 @@
 const css = require('./app.scss');
 
-console.log('Hello from app.js new changes');
+console.log('Hello world 2');
